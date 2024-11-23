@@ -15,7 +15,7 @@ Este projeto consiste em uma aplicação simples de agenda de contatos, desenvol
 
 3. **Publicação**:
    - A aplicação foi publicada na [Vercel](https://agenda-de-contatos-html-js-bootstrap.vercel.app/).
-     - A aplicação foi publicada na [GithubPages](https://github.com/Feyre-head/agenda-de-contatos-HTML-JS-BOOTSTRAP).
+     - A aplicação foi publicada na [GithubPages](https://feyre-head.github.io/agenda-de-contatos-HTML-JS-BOOTSTRAP/).
 
 ## 🚀 Como usar
 
