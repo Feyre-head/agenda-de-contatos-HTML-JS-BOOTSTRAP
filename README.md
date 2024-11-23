@@ -14,8 +14,8 @@ Este projeto consiste em uma aplicação simples de agenda de contatos, desenvol
    - Ao clicar em "Cadastrar", uma nova linha é adicionada à tabela de contatos.
 
 3. **Publicação**:
-   - A aplicação foi publicada na [Vercel](https://vercel.com/).
-     - A aplicação foi publicada na [GithubPages](https://vercel.com/).
+   - A aplicação foi publicada na [Vercel](https://agenda-de-contatos-html-js-bootstrap.vercel.app/).
+     - A aplicação foi publicada na [GithubPages](https://github.com/Feyre-head/agenda-de-contatos-HTML-JS-BOOTSTRAP).
 
 ## 🚀 Como usar
 
